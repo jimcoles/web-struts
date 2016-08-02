@@ -29,7 +29,7 @@ import org.jkcsoft.java.util.LogHelper;
  * providing better consistency of error handling.
  *
  * @author  J. Coles
- * @version
+ * @version 1.0
  */
 public abstract class AbstractHttpAction extends Action
 {
